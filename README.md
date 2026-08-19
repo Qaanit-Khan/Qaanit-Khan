@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO — Animated wave header with name embedded -->
+<!-- HERO — Animated waving banner with name + subtitle -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a3a7a&height=230&section=header&text=Hi%2C%20I'm%20Qaanit%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=60&descSize=17&descColor=cce4ff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a3a7a&height=230&section=header&text=Hi%2C%20I%27m%20Qaanit%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=62&descSize=17&descColor=cce4ff" width="100%">
 
 </div>
 
-<!-- Animated role cycling -->
+<!-- Animated role cycling — no emojis, JetBrains Mono -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=0e75b6&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Developer+%F0%9F%A7%A0;Full-Stack+Engineer+%F0%9F%8C%90;Flutter+%7C+Mobile+App+Builder+%F0%9F%93%B1;Spring+Boot+%7C+Backend+Developer+%E2%9A%99%EF%B8%8F;Open+Source+%7C+CivicTech+Builder+%F0%9F%9B%A0%EF%B8%8F" alt="Typing roles">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=0e75b6&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Developer;Full-Stack+Engineer;Flutter+%7C+Mobile+App+Builder;Spring+Boot+%7C+Backend+Developer;CivicTech+%7C+Open+Source+Builder" alt="Typing roles">
 
 </div>
 
@@ -29,10 +29,18 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME — rect blinking animated banner -->
+<!-- ABOUT ME — rounded fadeIn banner + typing summary + bullets -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3a7a,100:0e75b6&height=40&text=%F0%9F%91%A4%20About%20Me&fontSize=18&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=62" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a3a7a,100:0e75b6&height=50&text=About%20Me&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=62" width="72%">
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=0e75b6&center=true&vCenter=true&multiline=true&width=600&height=48&lines=Building+practical+AI+%2B+Web+%2B+Mobile+products;NagarDarpan+%7C+CivicTech+%7C+Full-Stack+%7C+AI+Engineering" alt="About summary">
+
 </div>
 
 <br>
@@ -48,28 +56,11 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB CONTRIBUTIONS — soft scaleIn animated banner -->
+<!-- CONTRIBUTION SNAKE — shark animation banner, no emoji -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:0a3a7a&height=50&text=%F0%9F%93%88%20GitHub%20Contributions&fontSize=18&fontColor=ffffff&animation=scaleIn&fontAlign=50&fontAlignY=65" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a3a7a,100:0e75b6&height=60&text=Contribution&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=70&reversal=false" width="100%">
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaanit-Khan&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity">
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE — slice fadeIn animated banner -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a3a7a,100:1a5fb4&height=55&text=%F0%9F%90%8D%20Contribution%20Graph&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=70&fontAlignY=55&reversal=true" width="100%">
-</div>
-
-<br>
 
 <div align="center">
   <picture>
@@ -82,13 +73,13 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK — waving animated banner + typing + icons -->
+<!-- TECH STACK — waving banner + Fira Code typing + icons grid -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a4a8c&height=90&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a4a8c&height=90&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=0e75b6&center=true&vCenter=true&width=620&lines=Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Dart+%7C+Kotlin;React+%7C+Flutter+%7C+Spring+Boot+%7C+FastAPI+%7C+Django;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Firebase;Git+%7C+GitHub+%7C+VS+Code+%7C+Android+Studio+%7C+Figma;Building+AI+%C2%B7+Web+%C2%B7+Mobile+%C2%B7+Backend+Products" alt="Typing tech stack">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=0e75b6&center=true&vCenter=true&width=620&lines=Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Dart+%7C+Kotlin;React+%7C+Flutter+%7C+Spring+Boot+%7C+FastAPI+%7C+Django;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Firebase;Git+%7C+GitHub+%7C+VS+Code+%7C+Android+Studio+%7C+Figma" alt="Typing tech stack">
 
 <br>
 
@@ -99,27 +90,35 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY EXPLORING — egg twinkling animated banner + typing -->
+<!-- CURRENTLY EXPLORING — egg twinkling banner + Roboto Mono typing -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0e75b6,100:0a3a7a&height=65&text=%F0%9F%94%AD%20Currently%20Exploring&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=60" width="55%">
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0e75b6,100:0a3a7a&height=65&text=Currently%20Exploring&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=60" width="60%">
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&pause=1200&color=0e75b6&center=true&vCenter=true&width=540&lines=Spring+Boot+%C2%B7+Flutter+%C2%B7+Artificial+Intelligence;Data+Structures+%26+Algorithms+%C2%B7+Prompt+Engineering;Building+smarter+tools+one+commit+at+a+time" alt="Currently Exploring">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&pause=1200&color=0e75b6&center=true&vCenter=true&width=560&lines=Spring+Boot+%C2%B7+Flutter+%C2%B7+Artificial+Intelligence;Data+Structures+%26+Algorithms+%C2%B7+Prompt+Engineering;Building+smarter+tools+one+commit+at+a+time" alt="Currently Exploring">
 
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT WITH ME — cylinder animated banner + badges -->
+<!-- CONNECT WITH ME — cylinder twinkling + typing message + badges -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a3a7a,100:0e75b6&height=60&text=%F0%9F%94%97%20Connect%20With%20Me&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=60" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a3a7a,100:0e75b6&height=60&text=Connect%20With%20Me&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1800&color=0e75b6&center=true&vCenter=true&width=480&lines=Let%27s+build+something+meaningful+together;Open+for+AI+%2B+CivicTech+%2B+Full-Stack;Reach+out+anytime+-+always+happy+to+connect" alt="Connect message">
+
 </div>
 
 <br>
@@ -136,7 +135,7 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER — bottom wave -->
+<!-- FOOTER — bottom waving wave with tagline -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
