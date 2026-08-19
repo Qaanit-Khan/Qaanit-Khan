@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Qaanit Khan**
+# Hi, I'm **Qaanit Khan**
 
-### 🚀 AI & Data Science Developer · Full-Stack Developer · Builder
+### AI & Data Science Developer · Full-Stack Developer · Builder
 
 <p>
 <a href="https://qaanitkhan.vercel.app">
@@ -25,19 +25,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an **AI & Data Science developer** focused on building practical products across **AI, web, mobile and backend development**.
 
-* 🔭 Currently building **NagarDarpan — AI Emergency SOS & Civic Response Platform**
-* 🌱 Learning **Java, Python, Flutter, Dart, Spring Boot, DSA & AI Development**
-* 🤝 Open to **AI, CivicTech & Full-Stack collaborations**
-* 💬 Ask me about **Full-Stack Development, AI & Prompt Engineering**
-* ⚡ Building useful things and occasionally turning coffee into code ☕
+* Currently building **NagarDarpan — AI Emergency SOS & Civic Response Platform**
+* Learning **Java, Python, Flutter, Dart, Spring Boot, DSA & AI Development**
+* Open to **AI, CivicTech & Full-Stack collaborations**
+* Ask me about **Full-Stack Development, AI & Prompt Engineering**
+* Building useful things and occasionally turning coffee into code
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Contributions
 
 <div align="center">
 
@@ -47,21 +47,17 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake.svg" alt="GitHub Contribution Snake">
-</picture>
+<img src="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -71,7 +67,7 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 <div align="center">
 
@@ -81,19 +77,22 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Qaanit-Khan">
 <img src="https://img.shields.io/badge/GitHub-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="https://linkedin.com/in/qaanitkhan">
 <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="https://qaanitkhan.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
+
 <a href="mailto:qaanitumar771@gmail.com">
 <img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
