@@ -2,37 +2,31 @@
 
 # 👋 Hi, I'm **Qaanit Khan**
 
-### 🚀 AI & Data Science Developer • Full-Stack Developer • Builder
+### 🚀 AI & Data Science Developer · Full-Stack Developer · Builder
 
 <p>
-<a href="https://github.com/Qaanit-Khan">
-<img src="https://komarev.com/ghpvc/?username=qaanit-khan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</a>
-<a href="https://github.com/Qaanit-Khan?tab=followers">
-<img src="https://img.shields.io/github/followers/Qaanit-Khan?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
-</a>
-<a href="https://github.com/Qaanit-Khan?tab=repositories">
-<img src="https://img.shields.io/github/stars/Qaanit-Khan?label=Stars&style=flat-square&color=0e75b6" alt="Stars"/>
-</a>
+  <a href="https://qaanitkhan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/qaanitkhan">
+    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:qaanitumar771@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0e75b6?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p>
-<a href="https://qaanitkhan.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:qaanitumar771@gmail.com">
-<img src="https://img.shields.io/badge/Email-0e75b6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/qaanitkhan">
-<img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=qaanit-khan&label=Profile%20Views&style=flat-square&color=0e75b6" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Qaanit-Khan?label=Followers&style=flat-square&color=0e75b6" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Qaanit-Khan?label=Stars&style=flat-square&color=0e75b6" alt="Stars">
 </p>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm an **AI & Data Science developer** focused on building practical products across **AI, web, mobile and backend development**.
 
@@ -40,17 +34,21 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 * 🌱 Learning **Java, Python, Flutter, Dart, Spring Boot, DSA & AI Development**
 * 🤝 Open to **AI, CivicTech & Full-Stack collaborations**
 * 💬 Ask me about **Full-Stack Development, AI & Prompt Engineering**
-* ⚡ I build useful things and occasionally turn coffee into code ☕
+* ⚡ Building useful things and occasionally turning coffee into code ☕
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Qaanit-Khan&show_icons=true&hide_border=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<a href="https://github.com/Qaanit-Khan">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Qaanit-Khan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e" alt="GitHub Stats">
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaanit-Khan&layout=compact&hide_border=true&theme=transparent&title_color=0e75b6&text_color=8b949e&bg_color=00000000&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/Qaanit-Khan">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaanit-Khan&layout=compact&hide_border=true&theme=transparent&title_color=0e75b6&text_color=8b949e&langs_count=8" alt="Top Languages">
+</a>
 
 </div>
 
@@ -60,7 +58,9 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Qaanit-Khan&theme=transparent&hide_border=true&background=00000000&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=8b949e&dates=8b949e" alt="GitHub Contribution Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Qaanit-Khan&hide_border=true&theme=default" alt="GitHub Contribution Streak">
+</a>
 
 </div>
 
@@ -70,18 +70,18 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaanit-Khan&bg_color=00000000&color=8b949e&line=0e75b6&point=58a6ff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaanit-Khan&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph">
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/Qaanit-Khan/NagarDarpan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Qaanit-Khan&repo=NagarDarpan&theme=transparent&hide_border=true&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6&bg_color=00000000" alt="NagarDarpan"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qaanit-Khan&repo=NagarDarpan&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e" alt="NagarDarpan">
 </a>
 
 </div>
@@ -90,19 +90,19 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 **AI Emergency SOS & Civic Response Platform**
 
-`React` `FastAPI` `Firebase` `Gemini Live` `Google Maps API` `Twilio`
+A civic technology platform focused on emergency assistance, intelligent response and AI-powered citizen support.
 
-A civic technology platform focused on emergency assistance and intelligent citizen response.
+`React` `FastAPI` `Firebase` `Gemini Live` `Google Maps API` `Twilio`
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dart,kotlin,react,flutter,spring,fastapi,django,mysql,postgres,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=11" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dart,kotlin,react,flutter,spring,fastapi,django,mysql,postgres,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=11" alt="Tech Stack">
 
-</p>
+</div>
 
 ---
 
@@ -111,12 +111,18 @@ A civic technology platform focused on emergency assistance and intelligent citi
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
-  <img src="./github-snake.svg" alt="GitHub Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
+
+---
+
+## 🌱 Currently Exploring
+
+`Spring Boot` · `Flutter` · `Artificial Intelligence` · `Data Structures & Algorithms` · `Prompt Engineering`
 
 ---
 
@@ -125,16 +131,16 @@ A civic technology platform focused on emergency assistance and intelligent citi
 <div align="center">
 
 <a href="https://github.com/Qaanit-Khan">
-<img src="https://img.shields.io/badge/GitHub-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://linkedin.com/in/qaanitkhan">
-<img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://qaanitkhan.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 <a href="mailto:qaanitumar771@gmail.com">
-<img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
@@ -143,6 +149,6 @@ A civic technology platform focused on emergency assistance and intelligent citi
 
 <div align="center">
 
-**Building • Learning • Shipping**
+**Building · Learning · Shipping**
 
 </div>
