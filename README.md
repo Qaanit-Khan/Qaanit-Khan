@@ -51,7 +51,7 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/Qaanit-Khan/Qaanit-Khan/output/github-snake.svg" alt="GitHub Contribution">
 
 </div>
 
