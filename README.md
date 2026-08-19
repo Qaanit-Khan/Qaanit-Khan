@@ -58,7 +58,17 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dart,kotlin,react,flutter,spring,fastapi,django,mysql,postgres,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=11" alt="Tech Stack">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a4a8c&height=80&section=header&fontSize=0&animation=fadeIn" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=0e75b6&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Dart+%7C+Kotlin;React+%7C+Flutter+%7C+Spring+Boot+%7C+FastAPI+%7C+Django;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Firebase;Git+%7C+GitHub+%7C+VS+Code+%7C+Android+Studio+%7C+Figma;Building+AI+%C2%B7+Web+%C2%B7+Mobile+%C2%B7+Backend+Products" alt="Typing tech stack">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dart,kotlin,react,flutter,spring,fastapi,django,mysql,postgres,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=11" alt="Tech Stack">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a4a8c,100:0e75b6&height=80&section=footer&fontSize=0&animation=fadeIn" width="100%">
+
 </div>
 
 ---
