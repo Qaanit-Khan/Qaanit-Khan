@@ -1,7 +1,7 @@
 <!-- HERO — Waving banner with name + subtitle embedded -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a3a7a&height=230&section=header&text=Hi%2C%20I%27m%20Qaanit%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=62&descSize=17&descColor=cce4ff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a3a7a&height=230&section=header&text=Hi%2C%20I%27m%20Qaanit%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=62&descSize=17&descColor=cce4ff" width="100%">
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ---
 
-I'm an **AI & Data Science developer** focused on building practical products across **AI, web, mobile and backend development**.
+I'm an **AI and Data Science developer** focused on building practical products across **AI, web, mobile and backend development**.
 
 - Currently building **NagarDarpan — AI Emergency SOS & Civic Response Platform**
 - Learning **Java, Python, Flutter, Dart, Spring Boot, DSA & AI Development**
@@ -40,9 +40,16 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=0e75b6&center=true&vCenter=true&width=620&lines=Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Dart+%7C+Kotlin;React+%7C+Flutter+%7C+Spring+Boot+%7C+FastAPI+%7C+Django;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Firebase;Git+%7C+GitHub+%7C+VS+Code+%7C+Android+Studio+%7C+Figma" alt="Tech Stack">
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dart,kotlin,react,flutter,spring,fastapi,django,mysql,postgres,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=11" alt="Tech Stack Icons">
+<!-- Animated scrolling icon rows (marquee) — row 1 scrolls left, row 2 scrolls right -->
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dart,kotlin,react,flutter,spring&perline=10" alt="Tech Stack Icons Row 1">
+</marquee>
+
+<marquee behavior="scroll" direction="right" scrollamount="6">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,mysql,postgres,mongodb,firebase,git,github,vscode,androidstudio,figma&perline=11" alt="Tech Stack Icons Row 2">
+</marquee>
 
 </div>
 
