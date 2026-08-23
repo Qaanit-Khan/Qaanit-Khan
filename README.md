@@ -1,6 +1,6 @@
 <!-- HERO — Waving banner with name + subtitle embedded -->
 <div align="center">
- 
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a3a7a&height=230&section=header&text=Hi%2C%20I%27m%20Qaanit%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=62&descSize=17&descColor=cce4ff" width="100%">
 
 </div>
