@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a3a7a&height=230&section=header&text=Hi%2C%20I%27m%20Qaanit%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=62&descSize=17&descColor=cce4ff" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%F0%9F%A4%96;Full-Stack+%2B+CivicTech+Enthusiast+%F0%9F%8C%90;Turning+ideas+into+working+code+%E2%9A%A1;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
@@ -14,26 +12,17 @@
 [![Email](https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qaanitumar771@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qaanit-Khan)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Qaanit-Khan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-
 </div>
 
 ---
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" alt="wave">
-<b>&nbsp;A little about me</b>
-</div>
-
 I'm an **AI & Data Science developer** focused on building practical products across **AI, web, mobile and backend development**.
 
-- 🚧 Currently building **NagarDarpan — AI Emergency SOS & Civic Response Platform**
-- 📚 Learning **Java, Python, Flutter, Dart, Spring Boot, DSA & AI Development**
-- 🤝 Open to **AI, CivicTech & Full-Stack collaborations**
-- 💬 Ask me about **Full-Stack Development, AI & Prompt Engineering**
-- ⚡ Building useful things and occasionally turning coffee into code
+- Currently building **NagarDarpan — AI Emergency SOS & Civic Response Platform**
+- Learning **Java, Python, Flutter, Dart, Spring Boot, DSA & AI Development**
+- Open to **AI, CivicTech & Full-Stack collaborations**
+- Ask me about **Full-Stack Development, AI & Prompt Engineering**
+- Building useful things and occasionally turning coffee into code
 
 ---
 
@@ -62,30 +51,6 @@ I'm an **AI & Data Science developer** focused on building practical products ac
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&pause=1200&color=0e75b6&center=true&vCenter=true&width=560&lines=Spring+Boot+%C2%B7+Flutter+%C2%B7+Artificial+Intelligence;Data+Structures+%26+Algorithms+%C2%B7+Prompt+Engineering;Building+smarter+tools+one+commit+at+a+time" alt="Currently Exploring">
-
-</div>
-
----
-
-<div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="chart">
-<b>&nbsp;GitHub Stats</b>
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Qaanit-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="165">
-<img src="https://streak-stats.demolab.com?user=Qaanit-Khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaanit-Khan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaanit-Khan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%">
 
 </div>
 
